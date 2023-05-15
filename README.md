@@ -20,15 +20,8 @@
 **Ferramentas de Desenvolvimento**
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea)](https://skillicons.dev)
-
   <br/>
-
-<a href="https://github.com/DiasEllen26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasEllen26&theme=dracula&show_icons=true" />
-</a>
-
 <br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellen-dias-b4256b250/)](https://www.linkedin.com/in/ellen-dias-b4256b250/)
