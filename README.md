@@ -5,13 +5,13 @@
 
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas para Internet na <a ref="https://www.alfaumuarama.edu.br/fau/">Faculdade ALFA</a>.
-- 🌱 &nbsp; Aprendendo mais sobre SpringBoot.
+- 🌱 &nbsp; Aprendendo mais sobre TypeScript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
-  [![My Skills](https://skillicons.dev/icons?i=java,php,mysql,js,nodejs,spring,maven,bootstrap,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,php,mysql,typescript,nodejs,react,spring,maven,bootstrap,js,html,css)](https://skillicons.dev)
   
 **DevOps**
 
