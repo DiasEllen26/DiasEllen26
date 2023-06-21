@@ -11,11 +11,11 @@
 
 **Aplicações e Dados**
 
-  [![My Skills](https://skillicons.dev/icons?i=java,php,mysql,typescript,nodejs,react,spring,maven,bootstrap,jquery,js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,php,laravel,mysql,typescript,nodejs,react,spring,maven,bootstrap,jquery,js,html,css)](https://skillicons.dev)
   
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
   
 **Ferramentas de Desenvolvimento**
 
