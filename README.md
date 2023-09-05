@@ -11,7 +11,7 @@
 
 **Aplicações e Dados**
 
-  [![My Skills](https://skillicons.dev/icons?i=java,php,laravel,mysql,typescript,nodejs,react,spring,maven,bootstrap,jquery,js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,react,java,php,laravel,mysql,spring,maven,bootstrap,jquery,js,html,css)](https://skillicons.dev)
   
 **DevOps**
 
