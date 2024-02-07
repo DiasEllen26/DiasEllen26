@@ -5,7 +5,7 @@
 - 🏬 &nbsp;Desenvolvedora FullStack na IBRACEM.
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas para Internet na <a ref="https://www.alfaumuarama.edu.br/fau/">Faculdade ALFA</a>.
-- 🌱 &nbsp; Aprendendo mais sobre TypeScript.
+- 🌱 &nbsp; Aprendendo mais sobre C#.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
