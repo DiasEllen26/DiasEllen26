@@ -5,7 +5,7 @@
 - 🏬 &nbsp;Desenvolvedora Frontend na IBRACEM.
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas para Internet na <a ref="https://www.alfaumuarama.edu.br/fau/">Faculdade ALFA</a>.
-- 🌱 &nbsp; Aprendendo mais sobre C#.
+- 🌱 &nbsp; Aprendendo mais sobre React Native.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
