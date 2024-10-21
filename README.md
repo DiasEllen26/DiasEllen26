@@ -2,7 +2,7 @@
 
 
 ## 💜 Olá, meu nome é <strong>Ellen Dias!</strong>
-- 🏬 &nbsp;Desenvolvedora Frontend.
+- 🏬 &nbsp;Desenvolvedora Frontend na IBRACEM.
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 &nbsp; Aprendendo mais sobre React Native.
 
